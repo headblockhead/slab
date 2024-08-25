@@ -16,3 +16,6 @@ The keyboard is controlled by OpenRGB only at the moment. Key remapping may be a
 ## The Hardware
 
 The keyboard has a [custom PCB](https://github.com/headblockhead/slab-pcb) and [3D-printable case](https://github.com/headblockhead/slab-case). Follow the links to find out more.
+
+## Showcase
+[![4 pictures of the Slab Keyboard with a USB cable plugged in, with a play button in the center](https://github.com/user-attachments/assets/123dee2b-938f-46e1-b888-c03c419481f0)](https://www.youtube.com/watch?v=I5xrWIB_Eh8)
