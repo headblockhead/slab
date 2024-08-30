@@ -1,0 +1,15 @@
+[submodule "slab-firmware"]
+	path = slab-firmware
+	url = https://github.com/headblockhead/slab-firmware.git
+[submodule "slab-case"]
+	path = slab-case
+	url = https://github.com/headblockhead/slab-case.git
+[submodule "slab-pcb"]
+	path = slab-pcb
+	url = https://github.com/headblockhead/slab-pcb.git
+[submodule "squirrel"]
+	path = squirrel
+	url = https://github.com/headblockhead/squirrel.git
+[submodule "OpenRGB"]
+	path = OpenRGB
+	url = https://github.com/headblockhead/OpenRGB.git
