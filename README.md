@@ -1,5 +1,5 @@
 # The Slab Keyboard
-My full designs for an [**ortholinear**](https://en.wiktionary.org/wiki/ortholinear), [**hotswap**](https://en.wikipedia.org/wiki/Keyboard_technology#Hot-swappable_keyboard), [**MX switch**](https://en.wikipedia.org/wiki/Keyboard_technology#Metal_contact) custom mechanical keyboard featuring an [**128x32 pixel OLED display**](https://en.wikipedia.org/wiki/OLED#), a [**rotary encoder**](https://en.wikipedia.org/wiki/Rotary_encoder) and [**90 individually-addressable RGB LEDs**](https://en.wikipedia.org/wiki/Light-emitting_diode#Strip).
+My full designs for a **modular**,  [**ortholinear**](https://en.wiktionary.org/wiki/ortholinear) column staggered, [**hotswap**](https://en.wikipedia.org/wiki/Keyboard_technology#Hot-swappable_keyboard), [**MX switch**](https://en.wikipedia.org/wiki/Keyboard_technology#Metal_contact) and [**Choc Switch**](http://www.kailh.com/en/Products/Ks/CS/) custom mechanical keyboard system featuring an [**128x32 pixel OLED display**](https://en.wikipedia.org/wiki/OLED#), a [**rotary encoder**](https://en.wikipedia.org/wiki/Rotary_encoder) and [**fully individually-addressable RGB LEDs**](https://en.wikipedia.org/wiki/Light-emitting_diode#Strip) per module of the keyboard.
 
 ![slab keyboard with rainbow animation and oled running](https://github.com/user-attachments/assets/d2a1c952-e986-4887-a9cd-9fdd5c0791ee)
 
