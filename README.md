@@ -2,6 +2,12 @@
 
 An open-source modular mechanical keyboard system.
 
+![Slab Keyboard rainbow effect](https://github.com/user-attachments/assets/4e6a9b6a-37fa-4f8f-8107-5c229342e1b0)
+
+Firmware: [headblockhead/slab-firmware](https://github.com/headblockhead/slab-firmware) <br/>
+Case files: [headblockhead/slab-case](https://github.com/headblockhead/slab-case) <br/>
+PCB files: [headblockhead/slab-pcb](https://github.com/headblockhead/slab-pcb)
+
 ## Features
 - USB-C
 - Hot-swap switches
